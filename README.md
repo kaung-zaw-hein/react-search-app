@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# React Practice Code Challenge - Search APP (8/30)
+![Screenshot 2022-05-18 212157](https://user-images.githubusercontent.com/62888962/170172035-9060ec24-1e9d-45b7-990b-c6d3d5be2583.jpg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
